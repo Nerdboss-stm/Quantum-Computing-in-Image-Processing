@@ -33,7 +33,6 @@ This project explores the intersection of quantum computing and digital image pr
 ## Datasets
 
 - **MNIST**: 70,000 grayscale images of handwritten digits, preprocessed for compatibility with both classical and quantum methods.
-- **CIFAR-10**: 60,000 images across 10 distinct classes, utilized for image classification and segmentation tasks.
 
 ---
 
